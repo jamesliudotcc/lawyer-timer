@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lawyer-timer/static/css/main.1c107103.chunk.css",
+    "main.js": "/lawyer-timer/static/js/main.486e7f3a.chunk.js",
+    "main.js.map": "/lawyer-timer/static/js/main.486e7f3a.chunk.js.map",
+    "runtime-main.js": "/lawyer-timer/static/js/runtime-main.0012e9be.js",
+    "runtime-main.js.map": "/lawyer-timer/static/js/runtime-main.0012e9be.js.map",
+    "static/js/2.5e56e730.chunk.js": "/lawyer-timer/static/js/2.5e56e730.chunk.js",
+    "static/js/2.5e56e730.chunk.js.map": "/lawyer-timer/static/js/2.5e56e730.chunk.js.map",
+    "static/js/3.0674ff6a.chunk.js": "/lawyer-timer/static/js/3.0674ff6a.chunk.js",
+    "static/js/3.0674ff6a.chunk.js.map": "/lawyer-timer/static/js/3.0674ff6a.chunk.js.map",
+    "index.html": "/lawyer-timer/index.html",
+    "static/css/main.1c107103.chunk.css.map": "/lawyer-timer/static/css/main.1c107103.chunk.css.map",
+    "static/js/2.5e56e730.chunk.js.LICENSE.txt": "/lawyer-timer/static/js/2.5e56e730.chunk.js.LICENSE.txt",
+    "static/media/spinner.dbc02f24.svg": "/lawyer-timer/static/media/spinner.dbc02f24.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0012e9be.js",
+    "static/js/2.5e56e730.chunk.js",
+    "static/css/main.1c107103.chunk.css",
+    "static/js/main.486e7f3a.chunk.js"
+  ]
+}
